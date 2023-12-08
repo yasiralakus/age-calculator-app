@@ -82,3 +82,21 @@ body {
         letter-spacing: 0.32px;
     }
 }
+
+.results {
+    & h1 {
+        color:#151515;
+        font-size: 104px;
+        font-style: italic;
+        font-weight: 800;
+        line-height: 110%;
+        letter-spacing: -2.08px;
+    } & span {
+            color: var(--Purple, #854DFF);
+            font-size: 104px;
+            font-style: italic;
+            font-weight: 800;
+            line-height: 110%;
+            letter-spacing: -2.08px;
+    }
+}
