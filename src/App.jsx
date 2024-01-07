@@ -88,7 +88,7 @@ export default function App() {
 
                     </div>
 
-                    <button onClick={handleClick}><img src="./src/assets/img/button-vector.png" alt="" /></button>
+                    <button onClick={handleClick}><img src="./img/button-vector.png" alt="" /></button>
 
                 </form>
 
